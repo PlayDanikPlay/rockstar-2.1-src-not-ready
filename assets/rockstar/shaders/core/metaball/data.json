@@ -1,0 +1,14 @@
+{
+  "vertex": "rockstar:core/liquidglass/vertex",
+  "fragment": "rockstar:core/metaball/fragment",
+  "samplers": [{ "name": "Sampler0" }],
+  "uniforms": [
+    { "name": "ModelViewMat", "type":"matrix4x4", "count":16, "values":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] },
+    { "name": "ProjMat", "type":"matrix4x4", "count":16, "values":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] },
+    { "name": "Size", "type":"float", "count":2, "values":[0.0,0.0] },
+    { "name": "Threshold", "type":"float", "count":1, "values":[0.35] },
+    { "name": "Smooth", "type":"float", "count":1, "values":[2.0] },
+    { "name": "RadiusPx", "type":"float", "count":1, "values":[24.0] },
+    { "name": "Iterations", "type":"int", "count":1, "values":[16] }
+  ]
+}

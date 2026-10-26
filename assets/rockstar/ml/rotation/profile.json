@@ -1,0 +1,29 @@
+{
+  "name": "AggressivePlayer",
+  "attack_pattern": {
+    "burst_length": 5,
+    "burst_cooldown_min": 120,
+    "burst_cooldown_max": 280,
+    "cps_min": 12.0,
+    "cps_max": 18.5,
+    "aim_assist_strength": 0.85,
+    "auto_click_delay_min": 32,
+    "auto_click_delay_max": 67,
+    "hitbox_priority": "head",
+    "target_switch_delay": 180
+  },
+  "human_mimic": {
+    "reaction_min": 55,
+    "reaction_max": 130,
+    "flick_chance": 0.21,
+    "misclick_chance": 0.07,
+    "overkill_protection": false
+  },
+  "rotation": {
+    "speed_yaw": 110,
+    "speed_pitch": 58,
+    "smoothness": 0.68,
+    "shake_intensity": 0.35,
+    "prediction_factor": 0.52
+  }
+}

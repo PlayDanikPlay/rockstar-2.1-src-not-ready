@@ -1,0 +1,96 @@
+{
+  "funtime": {
+    "consumable": [
+      {"id": "disorientation", "name": "Дезориентация", "item": "minecraft:ender_eye", "nbtKey": "desorientation", "lore": "Каст: Звуковая волна"},
+      {"id": "dust", "name": "Явная пыль", "item": "minecraft:sugar", "nbtKey": "sheerdust", "lore": "Каст: Световая вспышка"},
+      {"id": "god_aura", "name": "Божья аура", "item": "minecraft:phantom_membrane", "nbtKey": "godsaura", "lore": "Каст: Божественная аура"},
+      {"id": "trap", "name": "Трапка", "item": "minecraft:netherite_scrap", "nbtKey": "trap", "lore": "Каст: Нерушимая клетка"},
+      {"id": "tornado", "name": "Огненный смерч", "item": "minecraft:fire_charge", "nbtKey": "tornado", "lore": "Каст: Огненная волна"},
+      {"id": "plast", "name": "Пласт", "item": "minecraft:dried_kelp", "nbtKey": "plast", "lore": "Каст: Нерушимая стена"}
+    ],
+    "talisman": [
+      {"id": "krush", "name": "Крушителя", "item": "minecraft:totem_of_undying", "nbtKey": "tal-krush", "lore": "Ломающая преграды"},
+      {"id": "karatel", "name": "Карателя", "item": "minecraft:totem_of_undying", "nbtKey": "tal-karatel", "lore": "Несёт строгий приговор"},
+      {"id": "vihra", "name": "Вихря", "item": "minecraft:totem_of_undying", "nbtKey": "tal-vihra", "lore": "Вихрь не знает покоя"},
+      {"id": "demona", "name": "Демона", "item": "minecraft:totem_of_undying", "nbtKey": "tal-demona", "lore": "Печать разжигает ярость"},
+      {"id": "mraka", "name": "Мрака", "item": "minecraft:totem_of_undying", "nbtKey": "tal-mraka", "lore": "Мрак сгущается рядом"},
+      {"id": "razdora", "name": "Раздора", "item": "minecraft:totem_of_undying", "nbtKey": "tal-razdora", "lore": "Раздор жаждет хаоса"},
+      {"id": "tirana", "name": "Тирана", "item": "minecraft:totem_of_undying", "nbtKey": "tal-tirana", "lore": "Тиран подавляет слабых"},
+      {"id": "jarosti", "name": "Ярости", "item": "minecraft:totem_of_undying", "nbtKey": "tal-jarosti", "lore": "Чистая, дикая агрессия"}
+    ],
+    "sphere": [
+      {"id": "aresa", "name": "Ареса", "item": "minecraft:player_head", "nbtKey": "sphere-aresa", "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1MDM0Mzc3NDI1NSwKICAicHJvZmlsZUlkIiA6ICJhYWMxYjA2OWNkMjE0NWE2ODNlNzQxNzE4MDcxMGU4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJqdXNhbXUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzE2YWRjNmJhZmNiNTdmZDcwN2RlZTdkZDZhNzM2ZmUxMjY3MTFkNTNhMWZkNmNlNzg5ZGE0MWIzYmUxM2YyYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9", "lore": "Дух Ареса пылает"},
+      {"id": "gidri", "name": "Гидры", "item": "minecraft:player_head", "nbtKey": "sphere-gidri", "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1MDI3ODUzMjE4MywKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2UzYzExOGQ2OTZkOTEwZTU0ZGUwMmNhNGQ4MDc1NDNmOWIxOGMwMDhjOTgzOGQyZmY2OTM3NzYyMmZiMWQzMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9", "lore": "Живучесть темных глубин"},
+      {"id": "satira", "name": "Сатира", "item": "minecraft:player_head", "nbtKey": "sphere-satira", "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1MDI3ODYwODUyOCwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NzFhOWE0OThiNGZhNWVjNDkzNjJmOWJjODhlZGE0ZjUyYjA0ZGU0OWQ3NWFhM2NhMzMyYTFmZWExYWEwZTU3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=", "lore": "Шёпот Сатира звучит"},
+      {"id": "titana", "name": "Титана", "item": "minecraft:player_head", "nbtKey": "sphere-titana", "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1MDM1NDQ1NTE5MiwKICAicHJvZmlsZUlkIiA6ICJkOTcwYzEzZTM4YWI0NzlhOTY1OGM1ZDQ1MjZkMTM0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmltcHlMYWNlODUxMjciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFlOTY5ODQ1OGI3ODQxYzk2YWU0ZjI0ZWM4NGFlMDE3MjQxMDA2NDFjNTY0ZTJhN2IxODVmNDA2ZThlZDIzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=", "lore": "Мощь Титанов крепка"},
+      {"id": "haosa", "name": "Хаоса", "item": "minecraft:player_head", "nbtKey": "sphere-haosa", "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1MDI3ODY0MTkwMCwKICAicHJvZmlsZUlkIiA6ICIxNzRjZmRiNGEzY2I0M2I1YmZjZGU0MjRjM2JiMmM2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJhZWwxOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lN2E3YWU3Y2RjZjYxNmU4YjdhNDIyMWE2MjFiMjQzNTc1M2M2MGVkNmEyNThlYTA2MGRhZTMwMDJmZmU5ZTI4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=", "lore": "Хаос искажает реальность"},
+      {"id": "erida", "name": "Эрида", "item": "minecraft:player_head", "nbtKey": "sphere-erida", "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1MDM0Mzg2MTE4NywKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZlNGUyZjEwNDdmM2VjNmU5ZTQ1OTE4NDczOWUzM2I3YzFmYzYzYWQ4MjAyYmRhYjlmMDI0NTA4YWRkMjNlNWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==", "lore": "Холод Эриды вечен"},
+      {"id": "bestii", "name": "Бестии", "item": "minecraft:player_head", "nbtKey": "sphere-bestii", "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1MDM0MzgzNDkzMCwKICAicHJvZmlsZUlkIiA6ICI1MzUzNWIxN2M0ZDY0NWQ0YWUwY2U2ZjM4Zjk0NTFjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVYml2aXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQxMWFjMTczODFiOWZjZTliYWIzYzcyYWZkYjdmMTk4NTcwZGFmNDczMmJkODExZDMxYzIyN2Q4MGZhMzliMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9", "lore": "Звериная дикая мощь"},
+      {"id": "ikara", "name": "Икара", "item": "minecraft:player_head", "nbtKey": "sphere-ikara", "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1MDI3ODU4MjQ5MSwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2ODAzZTZkNTY2N2EyZDYxMDYyOGJjM2IzMmY4NjNjZGE0OTVjNDY1NjE2ZGU2NTVjYjMyOTkzM2I2MWFmNzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==", "lore": "Хранит волю Икара"}
+    ]
+  },
+  "spooky": {
+    "consumable": [
+      {"id": "diz", "name": "Дезориентация", "item": "minecraft:ender_eye", "nbtKey": "effect-item-diz"},
+      {"id": "dust", "name": "Явная пыль", "item": "minecraft:sugar", "nbtKey": "effect-item-dust"},
+      {"id": "god", "name": "Аура бога", "item": "minecraft:phantom_membrane", "nbtKey": "effect-item-god"},
+      {"id": "trap", "name": "Трапка", "item": "minecraft:netherite_scrap", "nbtKey": "effect-item-trap"},
+      {"id": "explosivetrap", "name": "Взрывная трапка", "item": "minecraft:prismarine_shard", "nbtKey": "effect-item-explosivetrap"},
+      {"id": "snowball", "name": "Снежок", "item": "minecraft:snowball", "nbtKey": "effect-item-snowball"},
+      {"id": "stun", "name": "Стан", "item": "minecraft:nether_star", "nbtKey": "effect-item-stun"}
+    ],
+    "talisman": [
+      {"id": "krush", "name": "Крушителя", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-tkryshitela"},
+      {"id": "karatel", "name": "Карателя", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-tkaratela"},
+      {"id": "vihra", "name": "Вихря", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-tvihra"},
+      {"id": "tirana", "name": "Тирана", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-ttirana"},
+      {"id": "grincha", "name": "Гринча", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-tgrincha"},
+      {"id": "demona", "name": "Демона", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-tdemona"},
+      {"id": "mraka", "name": "Мрака", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-tmraka"},
+      {"id": "razdora", "name": "Раздора", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-trazdora"},
+      {"id": "jarosti", "name": "Ярости", "item": "minecraft:totem_of_undying", "nbtKey": "attribute-item-tjarosti"}
+    ],
+    "sphere": [
+      {"id": "aresa", "name": "Ареса", "item": "minecraft:player_head", "nbtKey": "attribute-item-saresa"},
+      {"id": "gidri", "name": "Гидры", "item": "minecraft:player_head", "nbtKey": "attribute-item-sgidri"},
+      {"id": "moroza", "name": "Мороза", "item": "minecraft:player_head", "nbtKey": "attribute-item-smoroza"},
+      {"id": "satira", "name": "Сатира", "item": "minecraft:player_head", "nbtKey": "attribute-item-ssatira"},
+      {"id": "titana", "name": "Титана", "item": "minecraft:player_head", "nbtKey": "attribute-item-stitana"},
+      {"id": "haosa", "name": "Хаоса", "item": "minecraft:player_head", "nbtKey": "attribute-item-shaosa"},
+      {"id": "erida", "name": "Эрида", "item": "minecraft:player_head", "nbtKey": "attribute-item-serida"},
+      {"id": "bestii", "name": "Бестии", "item": "minecraft:player_head", "nbtKey": "attribute-item-sbestii"},
+      {"id": "ikara", "name": "Икара", "item": "minecraft:player_head", "nbtKey": "attribute-item-sikara"},
+      {"id": "afina", "name": "Афины", "item": "minecraft:player_head", "nbtKey": "attribute-item-safina"}
+    ]
+  },
+  "holy": {
+    "consumable": [
+      {"id": "trap", "name": "Трапка", "item": "minecraft:popped_chorus_fruit", "nbtKey": "ALTERNATIVE_TRAP"},
+      {"id": "explosivetrap", "name": "Взрывная трапка", "item": "minecraft:prismarine_shard", "nbtKey": "EXPLOSIVE_TRAP"},
+      {"id": "stun", "name": "Стан", "item": "minecraft:nether_star", "nbtKey": "STUN_STAR"},
+      {"id": "snowball", "name": "Снежок", "item": "minecraft:snowball", "nbtKey": "SnowBall"}
+    ],
+    "talisman": [
+      {"id": "normal", "name": "Обычный", "item": "minecraft:totem_of_undying", "nbtKey": "NORMAL"},
+      {"id": "epic", "name": "Эпический", "item": "minecraft:totem_of_undying", "nbtKey": "EPIC"},
+      {"id": "legendary", "name": "Легендарный", "item": "minecraft:totem_of_undying", "nbtKey": "LEGENDARY"},
+      {"id": "mythical", "name": "Мифический", "item": "minecraft:totem_of_undying", "nbtKey": "MYTHICAL"},
+      {"id": "eternity", "name": "Eternity", "item": "minecraft:totem_of_undying", "nbtKey": "Eternity"},
+      {"id": "infinity", "name": "Infinity", "item": "minecraft:totem_of_undying", "nbtKey": "Infinity"},
+      {"id": "stinger", "name": "Stinger", "item": "minecraft:totem_of_undying", "nbtKey": "Stinger"}
+    ],
+    "sphere": [
+      {"id": "normal", "name": "Обычная", "item": "minecraft:player_head", "nbtKey": "NORMAL"},
+      {"id": "epic", "name": "Эпическая", "item": "minecraft:player_head", "nbtKey": "EPIC"},
+      {"id": "legendary", "name": "Легендарная", "item": "minecraft:player_head", "nbtKey": "LEGENDARY"},
+      {"id": "mythical", "name": "Мифическая", "item": "minecraft:player_head", "nbtKey": "MYTHICAL"},
+      {"id": "eternity", "name": "Eternity", "item": "minecraft:player_head", "nbtKey": "Eternity"},
+      {"id": "infinity", "name": "Infinity", "item": "minecraft:player_head", "nbtKey": "Infinity"},
+      {"id": "stinger", "name": "Stinger", "item": "minecraft:player_head", "nbtKey": "Stinger"},
+      {"id": "immortal", "name": "Immortal", "item": "minecraft:player_head", "nbtKey": "Immortal"},
+      {"id": "armortality", "name": "Armortality", "item": "minecraft:player_head", "nbtKey": "Armortality"},
+      {"id": "flash", "name": "Flash", "item": "minecraft:player_head", "nbtKey": "Flash"},
+      {"id": "cerber", "name": "Cerber", "item": "minecraft:player_head", "nbtKey": "Cerber"}
+    ]
+  }
+}

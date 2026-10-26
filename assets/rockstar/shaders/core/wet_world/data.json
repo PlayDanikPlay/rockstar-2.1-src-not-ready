@@ -1,0 +1,26 @@
+{
+  "vertex": "rockstar:core/position_texture_color",
+  "fragment": "rockstar:core/wet_world/fragment",
+  "samplers": [
+    { "name": "Sampler0" },
+    { "name": "Sampler1" }
+  ],
+  "uniforms": [
+    { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "ProjMat",      "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "ViewProj",     "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "InvViewProj",  "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "CamPos",       "type": "float", "count": 3, "values": [ 0.0, 0.0, 0.0 ] },
+    { "name": "SkyTint",      "type": "float", "count": 3, "values": [ 0.45, 0.6, 0.9 ] },
+    { "name": "SunDir",       "type": "float", "count": 3, "values": [ 0.0, 1.0, 0.0 ] },
+    { "name": "Reflectivity", "type": "float", "count": 1, "values": [ 0.7 ] },
+    { "name": "Wetness",      "type": "float", "count": 1, "values": [ 0.6 ] },
+    { "name": "Ripple",       "type": "float", "count": 1, "values": [ 0.35 ] },
+    { "name": "Gloss",        "type": "float", "count": 1, "values": [ 0.5 ] },
+    { "name": "Steps",        "type": "float", "count": 1, "values": [ 24.0 ] },
+    { "name": "HitThickness", "type": "float", "count": 1, "values": [ 0.6 ] },
+    { "name": "MaxDistance",  "type": "float", "count": 1, "values": [ 24.0 ] },
+    { "name": "UpOnly",       "type": "float", "count": 1, "values": [ 1.0 ] },
+    { "name": "Time",         "type": "float", "count": 1, "values": [ 0.0 ] }
+  ]
+}

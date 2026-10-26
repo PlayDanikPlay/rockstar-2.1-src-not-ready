@@ -1,0 +1,17 @@
+{
+  "vertex": "rockstar:core/surface_stars/vertex",
+  "fragment": "rockstar:core/surface_stars/fragment",
+  "uniforms": [
+    { "name": "ViewProj", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "Offset",   "type": "float", "count": 3, "values": [ 0.0, 0.0, 0.0 ] },
+    { "name": "CamRight", "type": "float", "count": 3, "values": [ 1.0, 0.0, 0.0 ] },
+    { "name": "CamUp",    "type": "float", "count": 3, "values": [ 0.0, 1.0, 0.0 ] },
+    { "name": "Tint",     "type": "float", "count": 4, "values": [ 1.0, 0.8, 0.47, 1.0 ] },
+    { "name": "Time",     "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Size",     "type": "float", "count": 1, "values": [ 0.20 ] },
+    { "name": "Twinkle",  "type": "float", "count": 1, "values": [ 0.65 ] },
+    { "name": "Spikes",   "type": "float", "count": 1, "values": [ 1.0 ] },
+    { "name": "Fade",     "type": "float", "count": 2, "values": [ 11.0, 16.0 ] },
+    { "name": "PixelScale", "type": "float", "count": 1, "values": [ 900.0 ] }
+  ]
+}

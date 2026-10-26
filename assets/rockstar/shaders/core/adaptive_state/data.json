@@ -1,0 +1,15 @@
+{
+    "vertex": "rockstar:core/position_texture_color",
+    "fragment": "rockstar:core/adaptive_state/fragment",
+    "samplers": [
+        { "name": "Sampler0" },
+        { "name": "Sampler1" }
+    ],
+    "uniforms": [
+        { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "Threshold", "type": "float", "count": 2, "values": [ 0.3, 0.44 ] },
+        { "name": "Probe", "type": "float", "count": 2, "values": [ 0.0, 0.0 ] },
+        { "name": "Rate", "type": "float", "count": 1, "values": [ 1.0 ] }
+    ]
+}

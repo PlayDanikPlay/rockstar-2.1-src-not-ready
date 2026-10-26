@@ -1,0 +1,22 @@
+{
+    "vertex": "rockstar:core/block_ghost/vertex",
+    "fragment": "rockstar:core/block_ghost/fragment",
+    "samplers": [
+        { "name": "Sampler0" },
+        { "name": "Sampler2" }
+    ],
+    "uniforms": [
+        { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "ColorModulator", "type": "float", "count": 4, "values": [ 1.0, 1.0, 1.0, 1.0 ] },
+        { "name": "FogStart", "type": "float", "count": 1, "values": [ 0.0 ] },
+        { "name": "FogEnd", "type": "float", "count": 1, "values": [ 1.0 ] },
+        { "name": "FogColor", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+        { "name": "FogShape", "type": "int", "count": 1, "values": [ 0 ] },
+        { "name": "GhostAxis", "type": "float", "count": 3, "values": [ 0.0, 0.0, 1.0 ] },
+        { "name": "GhostFrom", "type": "float", "count": 3, "values": [ 0.0, 0.0, 4.0 ] },
+        { "name": "GhostTo", "type": "float", "count": 3, "values": [ 0.0, 1.8, 4.0 ] },
+        { "name": "GhostShape", "type": "float", "count": 4, "values": [ 2.6, -0.35, 0.6, 0.9 ] },
+        { "name": "GhostBand", "type": "float", "count": 1, "values": [ 0.35 ] }
+    ]
+}

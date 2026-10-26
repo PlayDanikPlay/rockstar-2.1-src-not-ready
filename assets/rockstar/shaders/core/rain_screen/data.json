@@ -1,0 +1,22 @@
+{
+  "vertex": "rockstar:core/position_texture_color",
+  "fragment": "rockstar:core/rain_screen/fragment",
+  "samplers": [
+    { "name": "Sampler0" },
+    { "name": "Sampler1" },
+    { "name": "Sampler2" }
+  ],
+  "uniforms": [
+    { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "ProjMat",      "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "InvViewProj",  "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "CamPos",   "type": "float", "count": 3, "values": [ 0.0, 0.0, 0.0 ] },
+    { "name": "Tint",     "type": "float", "count": 3, "values": [ 0.7, 0.78, 0.85 ] },
+    { "name": "Time",     "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Drops",    "type": "float", "count": 1, "values": [ 0.6 ] },
+    { "name": "Splashes", "type": "float", "count": 1, "values": [ 0.6 ] },
+    { "name": "Aspect",   "type": "float", "count": 1, "values": [ 1.777 ] },
+    { "name": "Roof",     "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+    { "name": "RoofSpan", "type": "float", "count": 1, "values": [ 192.0 ] }
+  ]
+}

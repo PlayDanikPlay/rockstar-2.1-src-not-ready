@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "rockstar",
+  "version": "1.0.0",
+  "name": "Rockstar",
+  "description": "Вспомогательный мод для комфортной игры. Огромные благодарности за помощь в разработке клиента: Sampay, sheluvparis, Delyfss, qmaa, senya, watanowa, whistlekey и др.",
+  "authors": [
+    "ConeTin",
+    "Malecharik",
+    "Jabkov",
+    "saint",
+    "Gyusik",
+    "Damage",
+    "Claude",
+    "ChatGPT Codex"
+  ],
+  "contact": {
+    "homepage": "https://rockstar.pub"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/rockstar/icon.png",
+  "environment": "client",
+  "entrypoints": {},
+  "mixins": [
+    "rockstar.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "\u003e\u003d0.16.14",
+    "minecraft": "~1.21.4",
+    "java": "\u003e\u003d21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  },
+  "accessWidener": "rockstar.accesswidener",
+  "jars": [
+    {
+      "file": "META-INF/jars/DiscordIPC-Java23-v1.1.jar"
+    },
+    {
+      "file": "META-INF/jars/common-image-3.12.0.jar"
+    },
+    {
+      "file": "META-INF/jars/common-io-3.12.0.jar"
+    },
+    {
+      "file": "META-INF/jars/common-lang-3.12.0.jar"
+    },
+    {
+      "file": "META-INF/jars/fte-api-1.0.0.jar"
+    },
+    {
+      "file": "META-INF/jars/imageio-core-3.12.0.jar"
+    },
+    {
+      "file": "META-INF/jars/imageio-metadata-3.12.0.jar"
+    },
+    {
+      "file": "META-INF/jars/imageio-webp-3.12.0.jar"
+    },
+    {
+      "file": "META-INF/jars/jep-4.2.2.jar"
+    },
+    {
+      "file": "META-INF/jars/jlayer-1.0.1.4.jar"
+    },
+    {
+      "file": "META-INF/jars/jna-5.15.0.jar"
+    },
+    {
+      "file": "META-INF/jars/json-20230227.jar"
+    },
+    {
+      "file": "META-INF/jars/jsoup-1.22.2.jar"
+    }
+  ]
+}

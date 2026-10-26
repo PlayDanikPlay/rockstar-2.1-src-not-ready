@@ -1,0 +1,24 @@
+{
+  "vertex": "rockstar:core/position_texture_color",
+  "fragment": "rockstar:core/volumetric_fog/fragment",
+  "samplers": [
+    { "name": "Sampler0" },
+    { "name": "Sampler1" }
+  ],
+  "uniforms": [
+    { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "ProjMat",      "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "InvViewProj",  "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "CamPos",    "type": "float", "count": 3, "values": [ 0.0, 0.0, 0.0 ] },
+    { "name": "FogTint",   "type": "float", "count": 3, "values": [ 0.8, 0.82, 0.85 ] },
+    { "name": "Flow",      "type": "float", "count": 2, "values": [ 0.0, 0.0 ] },
+    { "name": "FlowPatch", "type": "float", "count": 2, "values": [ 0.0, 0.0 ] },
+    { "name": "Density",     "type": "float", "count": 1, "values": [ 0.35 ] },
+    { "name": "LayerY",      "type": "float", "count": 1, "values": [ 64.0 ] },
+    { "name": "Thickness",   "type": "float", "count": 1, "values": [ 10.0 ] },
+    { "name": "MaxDistance", "type": "float", "count": 1, "values": [ 96.0 ] },
+    { "name": "Coverage",    "type": "float", "count": 1, "values": [ 0.45 ] },
+    { "name": "TileScale",   "type": "float", "count": 1, "values": [ 0.00347 ] },
+    { "name": "StepWorld",   "type": "float", "count": 1, "values": [ 4.5 ] }
+  ]
+}

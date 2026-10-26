@@ -1,0 +1,1488 @@
+{
+  "items": [
+    {
+      "id": "minecraft:netherite_helmet",
+      "name": "Шлем Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Шлем",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Защита от снарядов",
+          "max": 5
+        }
+      ]
+    },
+    {
+      "id": "minecraft:netherite_chestplate",
+      "name": "Нагрудник Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Нагрудник",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:netherite_leggings",
+      "name": "Поножи Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Поножи",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:netherite_boots",
+      "name": "Ботинки Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Ботинки",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Взрывоустойчивость",
+          "max": 5
+        }
+      ]
+    },
+    {
+      "id": "minecraft:netherite_sword",
+      "name": "Меч Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Меч",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Острота",
+          "max": 8
+        },
+        {
+          "name": "Отдача",
+          "max": 1
+        },
+        {
+          "name": "Неразрушаемый",
+          "max": 0
+        }
+      ]
+    },
+    {
+      "id": "minecraft:bow",
+      "name": "Лук Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Лук",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:crossbow",
+      "name": "Арбалет Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Арбалет",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:trident",
+      "name": "Трезубец Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Трезубец",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:netherite_pickaxe",
+      "name": "Кирка Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Кирка",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Бур",
+          "max": 2
+        },
+        {
+          "name": "Автоплавка",
+          "max": 1
+        },
+        {
+          "name": "Фильтр",
+          "max": 1
+        },
+        {
+          "name": "Мега-Бур",
+          "max": 1
+        }
+      ]
+    },
+    {
+      "id": "minecraft:netherite_shovel",
+      "name": "Лопата Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Лопата",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:netherite_axe",
+      "name": "Топор Iɴғɪɴɪᴛʏ",
+      "category": "gear",
+      "query": "Топор",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Фермер",
+          "max": 2
+        }
+      ]
+    },
+    {
+      "id": "minecraft:netherite_helmet",
+      "name": "Шлем ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Шлем",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:netherite_chestplate",
+      "name": "Нагрудник ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Нагрудник",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:netherite_leggings",
+      "name": "Штаны ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Штаны",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:netherite_boots",
+      "name": "Ботинки ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Ботинки",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Взрывоустойчивость",
+          "max": 5
+        }
+      ]
+    },
+    {
+      "id": "minecraft:netherite_sword",
+      "name": "Меч ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Меч",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Богач",
+          "max": 2
+        }
+      ]
+    },
+    {
+      "id": "minecraft:bow",
+      "name": "Лук ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Лук",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:crossbow",
+      "name": "Арбалет ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Арбалет",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:trident",
+      "name": "Трезубец ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Трезубец",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Пронзатель",
+          "max": 5
+        },
+        {
+          "name": "Прочность",
+          "max": 5
+        },
+        {
+          "name": "Добыча",
+          "max": 4
+        },
+        {
+          "name": "Самонаводка",
+          "max": 4
+        }
+      ]
+    },
+    {
+      "id": "minecraft:netherite_pickaxe",
+      "name": "Кирка ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Кирка",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Бур",
+          "max": 2
+        },
+        {
+          "name": "Автоплавка",
+          "max": 1
+        },
+        {
+          "name": "Фильтр",
+          "max": 1
+        },
+        {
+          "name": "Мега-Бур",
+          "max": 1
+        }
+      ]
+    },
+    {
+      "id": "minecraft:netherite_shovel",
+      "name": "Лопата ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Лопата",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:netherite_axe",
+      "name": "Топор ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "gear",
+      "query": "Топор",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Эффективность",
+          "max": 9
+        },
+        {
+          "name": "Фермер",
+          "max": 2
+        },
+        {
+          "name": "Опытный",
+          "max": 2
+        },
+        {
+          "name": "Деликатный",
+          "max": 2
+        }
+      ]
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Обычная сфера",
+      "category": "spheres",
+      "query": "Обычная",
+      "match": "сфера",
+      "exact": true,
+      "stack": 64,
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU5NTI5M2FjYmNkNGY1NWZhZjU5NDdiZmM1MTM1MDM4YjI3NWE3YWI4MTA4NzM0MWI5ZWM2ZTQ1M2U4MzkifX19",
+      "traits": [
+        {
+          "name": "Урон",
+          "max": 1
+        },
+        {
+          "name": "Броня",
+          "max": 1
+        },
+        {
+          "name": "Скорость",
+          "max": 1
+        },
+        {
+          "name": "Макс. здоровье",
+          "max": 1
+        },
+        {
+          "name": "Спешка",
+          "max": 1
+        },
+        {
+          "name": "Скорость атаки",
+          "max": 1
+        }
+      ],
+      "variants": [
+        {
+          "Спешка": 1
+        },
+        {
+          "Скорость": 1
+        },
+        {
+          "Урон": 1
+        },
+        {
+          "Броня": 1
+        },
+        {
+          "Макс. здоровье": 1
+        },
+        {
+          "Скорость атаки": 1
+        }
+      ]
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Эпическая сфера",
+      "category": "spheres",
+      "query": "Эпическая",
+      "match": "сфера",
+      "exact": true,
+      "stack": 64,
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTYzYmNhZjZkMjY3OWQ4ZDdkOWJmNmE0NzRhNDhhNzdhOGU5MTc0N2ExMDg0YzA5MjU2ZWJjODZjYjc0ODExIn19fQ==",
+      "traits": [
+        {
+          "name": "Урон",
+          "max": 2
+        },
+        {
+          "name": "Броня",
+          "max": 2
+        },
+        {
+          "name": "Скорость",
+          "max": 2
+        },
+        {
+          "name": "Макс. здоровье",
+          "max": 2
+        },
+        {
+          "name": "Спешка",
+          "max": 2
+        },
+        {
+          "name": "Скорость атаки",
+          "max": 2
+        }
+      ],
+      "variants": [
+        {
+          "Скорость": 1,
+          "Урон": 1
+        },
+        {
+          "Скорость": 2
+        },
+        {
+          "Макс. здоровье": 2
+        },
+        {
+          "Урон": 2
+        },
+        {
+          "Макс. здоровье": 1,
+          "Урон": 1
+        },
+        {
+          "Макс. здоровье": 1,
+          "Скорость": 1
+        },
+        {
+          "Спешка": 2
+        },
+        {
+          "Броня": 1,
+          "Урон": 1
+        },
+        {
+          "Броня": 2
+        },
+        {
+          "Скорость": 1,
+          "Спешка": 1
+        }
+      ]
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Легендарная сфера",
+      "category": "spheres",
+      "query": "Легендарная",
+      "match": "сфера",
+      "exact": true,
+      "stack": 64,
+      "traits": [
+        {
+          "name": "Урон",
+          "max": 3
+        },
+        {
+          "name": "Броня",
+          "max": 3
+        },
+        {
+          "name": "Скорость",
+          "max": 3
+        },
+        {
+          "name": "Макс. здоровье",
+          "max": 3
+        },
+        {
+          "name": "Спешка",
+          "max": 3
+        },
+        {
+          "name": "Скорость атаки",
+          "max": 3
+        }
+      ],
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM5MzY1NjQyYzZlZGRjZmVkZjViNWUxNGUyYmM3MTI1N2Q5ZTRhMzM2M2QxMjNjNmYzM2M1NWNhZmJmNmQifX19",
+      "variants": [
+        {
+          "Броня": 2,
+          "Скорость атаки": 2
+        },
+        {
+          "Макс. здоровье": 2,
+          "Скорость атаки": 2
+        },
+        {
+          "Макс. здоровье": 2,
+          "Урон": 2
+        },
+        {
+          "Броня": 2,
+          "Урон": 2
+        },
+        {
+          "Скорость атаки": 3
+        },
+        {
+          "Макс. здоровье": 3
+        },
+        {
+          "Спешка": 3
+        },
+        {
+          "Скорость атаки": 2,
+          "Урон": 2
+        },
+        {
+          "Скорость": 2,
+          "Урон": 2
+        },
+        {
+          "Скорость": 3
+        },
+        {
+          "Броня": 3
+        },
+        {
+          "Урон": 3
+        }
+      ]
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Мифическая сфера",
+      "category": "spheres",
+      "query": "Мифическая",
+      "match": "сфера",
+      "exact": true,
+      "stack": 64,
+      "traits": [
+        {
+          "name": "Броня",
+          "max": 3
+        },
+        {
+          "name": "Урон",
+          "max": 3
+        },
+        {
+          "name": "Скорость",
+          "max": 2
+        }
+      ],
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmFmZjJlYjQ5OGU1YzZhMDQ0ODRmMGM5Zjc4NWI0NDg0NzlhYjIxM2RmOTVlYzkxMTc2YTMwOGExMmFkZDcwIn19fQ==",
+      "variants": [
+        {
+          "Броня": 3,
+          "Скорость": 2
+        },
+        {
+          "Броня": 2,
+          "Урон": 3
+        },
+        {
+          "Броня": 3,
+          "Урон": 2
+        }
+      ]
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Сфера ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "spheres",
+      "query": "Сфера",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 64,
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM5MzY1NjQyYzZlZGRjZmVkZjViNWUxNGUyYmM3MTI1N2Q5ZTRhMzM2M2QxMjNjNmYzM2M1NWNhZmJmNmQifX19",
+      "traits": []
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Сфера ᴀʀᴍᴏʀᴛᴀʟɪᴛʏ",
+      "category": "spheres",
+      "query": "Сфера",
+      "match": "ᴀʀᴍᴏʀᴛᴀʟɪᴛʏ",
+      "exact": true,
+      "stack": 64,
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWE2MmI5ZGU2YTI2Yjg2ODY5Y2EyMmVhNDBmMWJkZTgwYTA0MzBhNTQ1NDdiZWNjZThmZGE4NzA3Nzc3MjU4ZiJ9fX0=",
+      "traits": []
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Сфера ɪᴍᴍᴏʀᴛᴀʟɪᴛʏ",
+      "category": "spheres",
+      "query": "Сфера",
+      "match": "ɪᴍᴍᴏʀᴛᴀʟɪᴛʏ",
+      "exact": true,
+      "stack": 64,
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNlZDRjZTIzOTMzZTY2ZTA0ZGYxNjA3MDY0NGY3NTk5ZWViNTUzMDdmN2VhZmU4ZDkyZjQwZmIzNTIwODYzYyJ9fX0=",
+      "traits": []
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Сфера sᴛɪɴɢᴇʀ",
+      "category": "spheres",
+      "query": "Сфера",
+      "match": "sᴛɪɴɢᴇʀ",
+      "exact": true,
+      "stack": 64,
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM5MzY1NjQyYzZlZGRjZmVkZjViNWUxNGUyYmM3MTI1N2Q5ZTRhMzM2M2QxMjNjNmYzM2M1NWNhZmJmNmQifX19",
+      "traits": []
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Сфера Флеша",
+      "category": "spheres",
+      "query": "Сфера",
+      "match": "Флеша",
+      "exact": true,
+      "stack": 64,
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzc0MDBlYTE5ZGJkODRmNzVjMzlhZDY4MjNhYzRlZjc4NmYzOWY0OGZjNmY4NDYwMjM2NmFjMjliODM3NDIyIn19fQ==",
+      "traits": []
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Сфера Цербера",
+      "category": "spheres",
+      "query": "Сфера",
+      "match": "Цербера",
+      "exact": true,
+      "stack": 64,
+      "traits": [],
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA5NWE3ZmQ5MGRhYTFiYmU3MDY5MDg5NzQwZTA1ZDBiZmM2NjI5NmVlM2M0MGVlNzFhNGUwYTY2MTZiMmJiYyJ9fX0="
+    },
+    {
+      "id": "minecraft:player_head",
+      "name": "Осколок сферы",
+      "category": "spheres",
+      "query": "Осколок",
+      "match": "сферы",
+      "exact": true,
+      "stack": 64,
+      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY3YmJjZTIzZTgxNjJlNDJkMjA3MDU1YjBjZTkwZjBlZDU3YjAxNWU1MjEyMTM5YWM4ZmM3ZTZkNDVkZGZjYSJ9fX0=",
+      "traits": []
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "name": "Обычный талисман",
+      "category": "spheres",
+      "query": "Обычный",
+      "match": "талисман",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Урон",
+          "max": 1
+        },
+        {
+          "name": "Броня",
+          "max": 1
+        },
+        {
+          "name": "Скорость",
+          "max": 1
+        },
+        {
+          "name": "Макс. здоровье",
+          "max": 1
+        },
+        {
+          "name": "Спешка",
+          "max": 1
+        },
+        {
+          "name": "Скорость атаки",
+          "max": 1
+        },
+        {
+          "name": "Бессмертие",
+          "max": 0
+        }
+      ],
+      "variants": [
+        {
+          "Скорость атаки": 1
+        },
+        {
+          "Макс. здоровье": 1
+        },
+        {
+          "Спешка": 1
+        },
+        {
+          "Броня": 1
+        },
+        {
+          "Урон": 1
+        },
+        {
+          "Скорость": 1
+        }
+      ]
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "name": "Эпический талисман",
+      "category": "spheres",
+      "query": "Эпический",
+      "match": "талисман",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Урон",
+          "max": 2
+        },
+        {
+          "name": "Броня",
+          "max": 2
+        },
+        {
+          "name": "Скорость",
+          "max": 2
+        },
+        {
+          "name": "Макс. здоровье",
+          "max": 2
+        },
+        {
+          "name": "Спешка",
+          "max": 2
+        },
+        {
+          "name": "Скорость атаки",
+          "max": 2
+        }
+      ],
+      "variants": [
+        {
+          "Макс. здоровье": 1,
+          "Скорость атаки": 1
+        },
+        {
+          "Броня": 1,
+          "Урон": 1
+        },
+        {
+          "Броня": 1,
+          "Скорость атаки": 1
+        },
+        {
+          "Скорость атаки": 1,
+          "Урон": 1
+        },
+        {
+          "Макс. здоровье": 1,
+          "Скорость": 1
+        },
+        {
+          "Скорость": 1,
+          "Урон": 1
+        },
+        {
+          "Макс. здоровье": 1,
+          "Урон": 1
+        },
+        {
+          "Броня": 1,
+          "Скорость": 1
+        }
+      ]
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "name": "Легендарный талисман",
+      "category": "spheres",
+      "query": "Легендарный",
+      "match": "талисман",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Урон",
+          "max": 3
+        },
+        {
+          "name": "Броня",
+          "max": 3
+        },
+        {
+          "name": "Скорость",
+          "max": 3
+        },
+        {
+          "name": "Макс. здоровье",
+          "max": 3
+        },
+        {
+          "name": "Спешка",
+          "max": 3
+        },
+        {
+          "name": "Скорость атаки",
+          "max": 3
+        },
+        {
+          "name": "Бессмертие",
+          "max": 0
+        },
+        {
+          "name": "Восстановление",
+          "max": 0
+        }
+      ],
+      "variants": [
+        {
+          "Урон": 3
+        },
+        {
+          "Броня": 3
+        },
+        {
+          "Скорость": 3
+        },
+        {
+          "Макс. здоровье": 3
+        },
+        {
+          "Спешка": 3
+        },
+        {
+          "Скорость атаки": 3
+        },
+        {
+          "Урон": 2,
+          "Броня": 2
+        },
+        {
+          "Урон": 2,
+          "Скорость": 2
+        },
+        {
+          "Урон": 2,
+          "Макс. здоровье": 2
+        },
+        {
+          "Урон": 2,
+          "Спешка": 2
+        },
+        {
+          "Урон": 2,
+          "Скорость атаки": 2
+        },
+        {
+          "Броня": 2,
+          "Скорость": 2
+        },
+        {
+          "Броня": 2,
+          "Макс. здоровье": 2
+        },
+        {
+          "Броня": 2,
+          "Спешка": 2
+        },
+        {
+          "Броня": 2,
+          "Скорость атаки": 2
+        },
+        {
+          "Скорость": 2,
+          "Макс. здоровье": 2
+        },
+        {
+          "Скорость": 2,
+          "Спешка": 2
+        },
+        {
+          "Скорость": 2,
+          "Скорость атаки": 2
+        },
+        {
+          "Макс. здоровье": 2,
+          "Спешка": 2
+        },
+        {
+          "Макс. здоровье": 2,
+          "Скорость атаки": 2
+        },
+        {
+          "Спешка": 2,
+          "Скорость атаки": 2
+        }
+      ]
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "name": "Талисман ɪɴғɪɴɪᴛʏ",
+      "category": "spheres",
+      "query": "Талисман",
+      "match": "ɪɴғɪɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Бессмертие",
+          "max": 0
+        },
+        {
+          "name": "Восстановление",
+          "max": 0
+        },
+        {
+          "name": "Последний шанс",
+          "max": 0
+        }
+      ]
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "name": "Талисман ᴇᴛᴇʀɴɪᴛʏ",
+      "category": "spheres",
+      "query": "Талисман",
+      "match": "ᴇᴛᴇʀɴɪᴛʏ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Бессмертие",
+          "max": 0
+        }
+      ]
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "name": "Талисман sᴛɪɴɢᴇʀ",
+      "category": "spheres",
+      "query": "Талисман",
+      "match": "sᴛɪɴɢᴇʀ",
+      "exact": true,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Бессмертие",
+          "max": 0
+        },
+        {
+          "name": "Восстановление",
+          "max": 0
+        }
+      ]
+    },
+    {
+      "id": "minecraft:red_dye",
+      "name": "«Восстановление»",
+      "category": "runes",
+      "query": "«Восстановление»",
+      "match": "",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:orange_dye",
+      "name": "Руна «Бессмертие»",
+      "category": "runes",
+      "query": "Руна",
+      "match": "«Бессмертие»",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:clay",
+      "name": "Взрывчатое вещество",
+      "category": "explosives",
+      "query": "Взрывчатое",
+      "match": "вещество",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "Динамит",
+      "category": "explosives",
+      "query": "Динамит",
+      "match": "",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "Динамит A",
+      "category": "explosives",
+      "query": "Динамит",
+      "match": "A",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "Динамит B",
+      "category": "explosives",
+      "query": "Динамит",
+      "match": "B",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "Динамит Б2",
+      "category": "explosives",
+      "query": "Динамит",
+      "match": "Б2",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "С4 ВзРыВчАтКа",
+      "category": "explosives",
+      "query": "С4",
+      "match": "ВзРыВчАтКа",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "Разрывная волна",
+      "category": "explosives",
+      "query": "Разрывная",
+      "match": "волна",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "Ледяная волна",
+      "category": "explosives",
+      "query": "Ледяная",
+      "match": "волна",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "Стиллер",
+      "category": "explosives",
+      "query": "Стиллер",
+      "match": "",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:tnt",
+      "name": "Надёжный стиллер",
+      "category": "explosives",
+      "query": "Надёжный",
+      "match": "стиллер",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:dispenser",
+      "name": "Тнт-Пушка",
+      "category": "explosives",
+      "query": "Тнт-Пушка",
+      "match": "",
+      "exact": true,
+      "traits": []
+    },
+    {
+      "id": "minecraft:popped_chorus_fruit",
+      "name": "Трапка",
+      "category": "explosives",
+      "query": "Трапка",
+      "match": "",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:prismarine_shard",
+      "name": "Взрывная трапка",
+      "category": "explosives",
+      "query": "Взрывная",
+      "match": "трапка",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:fire_charge",
+      "name": "Взрывная штучка",
+      "category": "explosives",
+      "query": "Взрывная",
+      "match": "штучка",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:snowball",
+      "name": "Ком снега",
+      "category": "explosives",
+      "query": "Ком",
+      "match": "снега",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:nether_star",
+      "name": "Стан",
+      "category": "explosives",
+      "query": "Стан",
+      "match": "",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:potion",
+      "name": "Зелье победителя",
+      "category": "potions",
+      "query": "Зелье",
+      "match": "победителя",
+      "exact": true,
+      "stack": 64,
+      "traits": [
+        {
+          "name": "Сила",
+          "max": 3
+        },
+        {
+          "name": "Скорость",
+          "max": 3
+        },
+        {
+          "name": "Спешка",
+          "max": 2
+        },
+        {
+          "name": "Регенерация",
+          "max": 2
+        },
+        {
+          "name": "Сопротивление",
+          "max": 2
+        },
+        {
+          "name": "Исцеление",
+          "max": 2
+        }
+      ],
+      "duration": 480,
+      "color": 33461,
+      "variants": [
+        {
+          "Сила": 3,
+          "Скорость": 3,
+          "Спешка": 2,
+          "Регенерация": 2,
+          "Сопротивление": 2,
+          "Исцеление": 2
+        }
+      ]
+    },
+    {
+      "id": "minecraft:potion",
+      "name": "Зелье силы",
+      "category": "potions",
+      "query": "Зелье",
+      "match": "силы",
+      "exact": true,
+      "stack": 64,
+      "traits": [
+        {
+          "name": "Сила",
+          "max": 2
+        }
+      ],
+      "duration": 480,
+      "color": 9643043,
+      "variants": [
+        {
+          "Сила": 2
+        }
+      ]
+    },
+    {
+      "id": "minecraft:potion",
+      "name": "Улучшенное зелье силы",
+      "category": "potions",
+      "query": "Улучшенное",
+      "match": "зелье силы",
+      "exact": true,
+      "stack": 64,
+      "traits": [
+        {
+          "name": "Сила",
+          "max": 3
+        }
+      ],
+      "duration": 360,
+      "color": 9643043,
+      "variants": [
+        {
+          "Сила": 3
+        }
+      ]
+    },
+    {
+      "id": "minecraft:potion",
+      "name": "Улучшенное зелье скорости",
+      "category": "potions",
+      "query": "Улучшенное",
+      "match": "зелье скорости",
+      "exact": true,
+      "stack": 64,
+      "traits": [
+        {
+          "name": "Скорость",
+          "max": 3
+        }
+      ],
+      "duration": 360,
+      "color": 8171462,
+      "variants": [
+        {
+          "Скорость": 3
+        }
+      ]
+    },
+    {
+      "id": "minecraft:potion",
+      "name": "Зелье черепашьей мощи",
+      "category": "potions",
+      "query": "Зелье",
+      "match": "черепашьей мощи",
+      "exact": true,
+      "stack": 64,
+      "traits": [
+        {
+          "name": "Замедление",
+          "max": 6
+        },
+        {
+          "name": "Сопротивление",
+          "max": 4
+        }
+      ],
+      "duration": 40,
+      "color": 7952477,
+      "variants": [
+        {
+          "Замедление": 6,
+          "Сопротивление": 4
+        }
+      ]
+    },
+    {
+      "id": "minecraft:pink_shulker_box",
+      "name": "Рюкзак (I уровень)",
+      "category": "backpacks",
+      "query": "Рюкзак",
+      "match": "(I уровень)",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:light_blue_shulker_box",
+      "name": "Рюкзак (II уровень)",
+      "category": "backpacks",
+      "query": "Рюкзак",
+      "match": "(II уровень)",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:red_shulker_box",
+      "name": "Рюкзак (III уровень)",
+      "category": "backpacks",
+      "query": "Рюкзак",
+      "match": "(III уровень)",
+      "exact": true,
+      "traits": []
+    },
+    {
+      "id": "minecraft:magenta_shulker_box",
+      "name": "Рюкзак (IV уровень)",
+      "category": "backpacks",
+      "query": "Рюкзак",
+      "match": "(IV уровень)",
+      "exact": true,
+      "traits": []
+    },
+    {
+      "id": "minecraft:lime_shulker_box",
+      "name": "Рюкзак Iɴғɪɴɪᴛʏ",
+      "category": "backpacks",
+      "query": "Рюкзак",
+      "match": "Iɴғɪɴɪᴛʏ",
+      "exact": true,
+      "traits": []
+    },
+    {
+      "id": "minecraft:conduit",
+      "name": "Артефакт",
+      "category": "other",
+      "query": "Артефакт",
+      "match": "",
+      "exact": true,
+      "stack": 64,
+      "traits": [
+        {
+          "name": "Эндермен",
+          "max": 0
+        },
+        {
+          "name": "Иллюминатор",
+          "max": 0
+        },
+        {
+          "name": "Анти-Фантом",
+          "max": 0
+        },
+        {
+          "name": "Снеговик",
+          "max": 0
+        },
+        {
+          "name": "Вампиризм",
+          "max": 0
+        },
+        {
+          "name": "Охотник",
+          "max": 0
+        },
+        {
+          "name": "Гравитация",
+          "max": 0
+        },
+        {
+          "name": "Телекинез",
+          "max": 0
+        },
+        {
+          "name": "Справедливость",
+          "max": 0
+        }
+      ]
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "name": "Тотем бессмертия",
+      "category": "other",
+      "query": "Тотем",
+      "match": "бессмертия",
+      "exact": false,
+      "stack": 1,
+      "traits": [
+        {
+          "name": "Бессмертие",
+          "max": 0
+        },
+        {
+          "name": "Восстановление",
+          "max": 0
+        }
+      ]
+    },
+    {
+      "id": "minecraft:compass",
+      "name": "Особый компас",
+      "category": "other",
+      "query": "Особый",
+      "match": "компас",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:golden_pickaxe",
+      "name": "Золотая кирка Джейка",
+      "category": "other",
+      "query": "Золотая",
+      "match": "кирка Джейка",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:spawner",
+      "name": "Золотой Спавнер",
+      "category": "other",
+      "query": "Золотой",
+      "match": "Спавнер",
+      "exact": true,
+      "stack": 1,
+      "traits": []
+    },
+    {
+      "id": "minecraft:ancient_debris",
+      "name": "Уникальный приват",
+      "category": "other",
+      "query": "Уникальный",
+      "match": "приват",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:ancient_debris",
+      "name": "Древние обломки",
+      "category": "other",
+      "query": "Древние",
+      "match": "обломки",
+      "exact": true,
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:experience_bottle",
+      "name": "Бутылек с 15 ур. опыта",
+      "category": "other",
+      "query": "Бутылек",
+      "match": "с 15 ур. опыта",
+      "exact": true,
+      "search": "15",
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:experience_bottle",
+      "name": "Бутылек с 30 ур. опыта",
+      "category": "other",
+      "query": "Бутылек",
+      "match": "с 30 ур. опыта",
+      "exact": true,
+      "search": "30",
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:experience_bottle",
+      "name": "Бутылек с 50 ур. опыта (5345)",
+      "category": "other",
+      "query": "Бутылек",
+      "match": "с 50 ур. опыта (5345)",
+      "exact": true,
+      "search": "50",
+      "stack": 64,
+      "traits": []
+    },
+    {
+      "id": "minecraft:experience_bottle",
+      "name": "Бутылек с 100 ур. опыта",
+      "category": "other",
+      "query": "Бутылек",
+      "match": "с 100 ур. опыта",
+      "exact": true,
+      "search": "100",
+      "stack": 64,
+      "traits": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "vertex": "rockstar:core/ui_stream/vertex",
+  "fragment": "rockstar:core/ui_stream/fragment",
+  "samplers": [
+    { "name": "Sampler0" },
+    { "name": "Sampler1" },
+    { "name": "Sampler2" },
+    { "name": "Sampler3" },
+    { "name": "Sampler4" },
+    { "name": "Sampler5" },
+    { "name": "Sampler6" },
+    { "name": "Sampler7" },
+    { "name": "Sampler8" },
+    { "name": "Sampler9" },
+    { "name": "Sampler10" },
+    { "name": "Sampler11" }
+  ],
+  "uniforms": [
+    { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "ColorModulator", "type": "float", "count": 4, "values": [ 1.0, 1.0, 1.0, 1.0 ] }
+  ]
+}

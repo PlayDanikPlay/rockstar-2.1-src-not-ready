@@ -1,0 +1,24 @@
+{
+    "vertex": "rockstar:core/ui_universal/vertex",
+    "fragment": "rockstar:core/ui_universal/fragment",
+    "samplers": [
+        { "name": "Sampler0" },
+        { "name": "Sampler1" },
+        { "name": "Sampler2" },
+        { "name": "Sampler3" }
+    ],
+    "uniforms": [
+        { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "Radius", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+        { "name": "RectSmoothness", "type": "float", "count": 1, "values": [ 0.5 ] },
+        { "name": "BorderSmoothness", "type": "float", "count": 2, "values": [ 0.5, 0.5 ] },
+        { "name": "BorderThickness", "type": "float", "count": 1, "values": [ 0.5 ] },
+        { "name": "CornerSmoothness", "type": "float", "count": 1, "values": [ 2.0 ] },
+        { "name": "TextThickness", "type": "float", "count": 1, "values": [ 0.0 ] },
+        { "name": "HeadSize", "type": "float", "count": 2, "values": [ 0.0, 0.0 ] },
+        { "name": "HeadRadius", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+        { "name": "HeadSmoothness", "type": "float", "count": 1, "values": [ 0.5 ] },
+        { "name": "ColorModulator", "type": "float", "count": 4, "values": [ 1.0, 1.0, 1.0, 1.0 ] }
+    ]
+}

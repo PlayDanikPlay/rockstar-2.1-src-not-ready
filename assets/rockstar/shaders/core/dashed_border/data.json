@@ -1,0 +1,17 @@
+{
+    "vertex": "rockstar:core/position_color",
+    "fragment": "rockstar:core/dashed_border/fragment",
+    "samplers": [],
+    "uniforms": [
+        { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "Size", "type": "float", "count": 2, "values": [ 0.0, 0.0 ] },
+        { "name": "Radius", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+        { "name": "Smoothness", "type": "float", "count": 2, "values": [ 0.5, 1.0 ] },
+        { "name": "Thickness", "type": "float", "count": 1, "values": [ 1.0 ] },
+        { "name": "DashLength", "type": "float", "count": 1, "values": [ 3.0 ] },
+        { "name": "GapLength", "type": "float", "count": 1, "values": [ 3.0 ] },
+        { "name": "Dashed", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+        { "name": "ColorModulator", "type": "float", "count": 4, "values": [ 1.0, 1.0, 1.0, 1.0 ] }
+    ]
+}
